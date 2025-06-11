@@ -63,13 +63,12 @@
     <h2>💰 Apenas R$ 19,90</h2>
     <p><strong>Pagamento 100% seguro.</strong><br>
     Aceitamos Pix, cartão e boleto.<br>
-    🛡️ Garantia de 7 dias ou seu dinheiro de volta.<br>
-    📥 Entrega automática por e-mail após o pagamento.</p>
+    🛡️ Garantia de 7 dias<br>
+    📥 Entrega automática para você após o pagamento.</p>
   </div>
 
-  <a class="btn" href="https://seulink.aqui" target="_blank">🔴 QUERO MELHORAR MEU JOGO AGORA</a>
+  <a class="btn" href="https://kiwify.app/347xjLy" target="_blank">🔴 QUERO MELHORAR MEU JOGO AGORA</a>
 </body>
 </html>
 
 
-E
