@@ -67,7 +67,7 @@
     📥 Entrega automática para você após o pagamento.</p>
   </div>
 
-  <a class="btn" href="https://kiwify.app/347xjLy" target="_blank">🔴 QUERO MELHORAR MEU JOGO AGORA</a>
+  <a class="btn" href="https://app.kiwify.com.br/vSeuLinkExemplo" target="_blank">🔴 QUERO MELHORAR MEU JOGO AGORA</a>
 </body>
 </html>
 
